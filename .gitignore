@@ -1,0 +1,9 @@
+/TemplateMonster.iml
+/.settings
+/.classpath
+/.idea
+/.project
+/target
+src/test/resources/properties/app.properties
+src/test/resources/googleApi
+pom.xml
